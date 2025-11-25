@@ -15,14 +15,7 @@ Este proyecto aplica técnicas de **Machine Learning supervisado** para predecir
 
 El objetivo es comparar distintos modelos y seleccionar el que obtiene el mejor desempeño.
 
----
 
-##  Estructura del Proyecto
-
-
-
-
----
 
 ##  Tecnologías y Librerías Usadas
 
